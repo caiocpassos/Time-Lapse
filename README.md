@@ -2,6 +2,8 @@
 
 Time Lapse é um jogo 2D singleplayer e de plataforma criado como trabalho universitário para a disciplina de Desenvolvimento de Jogos da Universidade Vila Velha (UVV)
 
+**Como Jogar:** Para jogar, baixe a pasta "Time Lapse" e execute o arquivo "Time Lapse.exe". Esperamos que se divirta!
+
 ## 📦 História do Jogo
 
 Quando criança o cientista Clarke sonhou que viajava pelo tempo entre eras para desvendar os mistérios da humanidade. Com o passar do tempo, sua vontade de tornar seu sonho realidade foi aumentando, tornando esse projeto seu projeto de vida, investindo todo seu esforço e criando a Time Corp. 

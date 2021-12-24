@@ -24,7 +24,7 @@ Time Lapse ainda não está completo, por isso, não conta com elementos além d
 
 Esse jogo foi feito para um trabalho em grupo, e aqui estão os integrantes: 
 
-* [Caio Costa Passos](linkCaio)
-* [Diana Poltronieri Rosalem](linkDiana)
+* [Caio Costa Passos](https://github.com/caiocpassos)
+* [Diana Poltronieri Rosalem](https://github.com/Diana-rosalem)
 * [Bernardo Zampirole Brandão](linkBernardo)
 * [Aline Amy Kato](linkKato)
